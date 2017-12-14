@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 增量式图像识别程序
 from __future__ import print_function
 import inception_v4
 from keras.preprocessing.image import ImageDataGenerator, img_to_array, load_img
