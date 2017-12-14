@@ -1,6 +1,8 @@
 # -
 一个基于卷积特征的增量式图像识别程序
 
+require：python2.7 keras2.+ tensorflow1.2+ opencv 
+
 利用inception v4 提取图像特征，构建了一个简易增量式图片识别程序
 
 inception v4参考自 https://github.com/kentsommer/keras-inceptionV4
